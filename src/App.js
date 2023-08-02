@@ -4,6 +4,7 @@ function App() {
     <div className="App">
       <h1>PROJECT 1</h1>
       <h1>AUG 2</h1>
+      <h1>PUSH 2</h1>
     </div>
   );
 }
