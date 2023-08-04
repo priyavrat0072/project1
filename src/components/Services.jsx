@@ -8,7 +8,7 @@ import img2 from '../assets/4.jpg'
 function Services  ()  {
   return (
     <div className='Services'>
-        <Carousel infiniteLoop autoPlay showStatus={false} showArrows={false} interval={1000}>
+        <Carousel infiniteLoop autoPlay showStatus={false} showArrows={false} showThumbs={false}  interval={1000}>
 
         <div>
             <img src={img1} alt='Item1' />
